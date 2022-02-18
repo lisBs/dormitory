@@ -2,7 +2,7 @@ module.exports = {
   baseUrl: './',
   devServer: {
     
-    host: 'localhost',
+    host: '114.132.237.53',
     port: 8083,
     open: true, //项目启动时是否自动打开浏览器，我这里设置为false,不打开，true表示打开
     
