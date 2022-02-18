@@ -10,7 +10,7 @@ module.exports = {
       "/api": {
         //真实转换成的后台请求地址，别忘了加http(https)
         //target: "http://localhost:8999/DormitoryAdmin", 
-        target: "http://localhost:8999", 
+        target: "http://114.132.237.53:8999", 
         ws: true,
         changeOrigin: true,//是否跨域
         pathRewrite: {//重定向
